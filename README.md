@@ -1,4 +1,4 @@
-# URL
+# Demo URL
 - https://sebalang1.github.io/mountain-paper-scissors/
 
 # Nonsense project
