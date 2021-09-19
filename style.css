@@ -1,0 +1,14 @@
+.results {
+    display: grid;
+    grid-template-columns: 400px 200px auto 40px;
+}
+
+.hud {
+    display: grid;
+    grid-template-columns: 50px 50px 300px 300px;    
+}
+
+body {
+    padding-left: 20%;
+    padding-right: 20%;
+}
